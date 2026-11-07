@@ -1,0 +1,6 @@
+{
+  "name": "MoneyBee",
+  "description": "Personal and group offline expense tracker with category breakdown, form validation, and local JSON storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
